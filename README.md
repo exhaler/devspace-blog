@@ -1,6 +1,6 @@
 # DevSpace Blog
 
-> Static Next.js blog that uses Markdown for posts. Includes pagination, categories and search
+Static Next.js blog that uses Markdown for posts. Includes pagination, categories and search
 
 ![DevSpace Blog](/public/images/screen.png "DevSpace Blog")
 
